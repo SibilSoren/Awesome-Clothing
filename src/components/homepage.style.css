@@ -1,0 +1,6 @@
+.menu-item {
+   border: 2px solid black;
+   text-align: center;
+   height: 200px;
+   border-radius: 10px;
+}
