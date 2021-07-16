@@ -1,0 +1,25 @@
+
+.menu-item {
+    border: 2px solid black;
+    text-align: center;
+    height: 200px;
+    border-radius: 5px;
+    background-position: center;
+    background-size: cover;
+    transition: all 200ms ease-out;
+ }
+
+ .content{
+    border: 2px solid black;
+    background:rgba(255,255,255, 0.3);
+    transition: all 200ms ease-out;
+     
+ }
+ .menu-item:hover{
+     transform: scale(1.05) ;
+    cursor: pointer;
+ }
+
+ .content:hover{
+    background:rgba(255,255,255, 0.6);
+ }
