@@ -1,0 +1,14 @@
+.option {
+  text-decoration: none;
+  padding: 20px 10px;
+  color: black;
+  font-size: 30px;
+}
+
+.logo {
+  transition: all 200ms ease-out;
+}
+
+.logo:hover {
+  transform: scale(1.1);
+}
